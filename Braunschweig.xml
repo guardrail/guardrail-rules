@@ -1,3 +1,0 @@
-<ruleset name="Braunschweig">
-  <rule from="^http://(www\.)?braunschweig\.de/" to="https://www.braunschweig.de/"/>
-</ruleset>

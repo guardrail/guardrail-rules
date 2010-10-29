@@ -1,3 +1,0 @@
-<ruleset name="CACert.org">
-  <rule from="^http://(?:www\.)?(cacert\.org)(/.*)?$" to="https://www.$1$2"/>
-</ruleset>

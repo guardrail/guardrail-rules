@@ -1,4 +1,0 @@
-<ruleset name="Fedora Project">
-<rule from="^http://(www\.)?fedoraproject\.org/" to="https://fedoraproject.org/"/>
-</ruleset>
-

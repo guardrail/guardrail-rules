@@ -1,3 +1,0 @@
-<ruleset name="Woot">
-  <rule from="^http://(www\.)?woot\.com/" to="https://www.woot.com/"/>
-</ruleset>

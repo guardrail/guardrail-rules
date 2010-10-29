@@ -1,3 +1,0 @@
-<ruleset name="Evernote">
-  <rule from="^http://(www\.)?evernote\.com/" to="https://www.evernote.com/"/>
-</ruleset>

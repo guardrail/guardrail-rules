@@ -1,4 +1,0 @@
-<ruleset name="Daft.ie">
-  <!-- cert only valid for *.daft.ie -->
-  <rule from="^http://(www\.)?daft\.ie/" to="https://www.daft.ie/"/>
-</ruleset>

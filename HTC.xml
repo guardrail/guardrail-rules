@@ -1,4 +1,0 @@
-<ruleset name="HTC">
-  <rule from="^http://(www\.)?htc\.com/" to="https://www.htc.com/"/>
-</ruleset>
-

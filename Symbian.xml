@@ -1,4 +1,0 @@
-<ruleset name="Symbian Foundation">
-<rule from="^http://developer\.symbian\.org/" to="https://developer.symbian.org/" />
-</ruleset>
-

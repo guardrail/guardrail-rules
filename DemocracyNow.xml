@@ -1,4 +1,0 @@
-<ruleset name="DemocracyNow">
-  <rule from="^http://(www\.)?democracynow\.org/" to="https://www.democracynow.org/"/>
-</ruleset>
-    

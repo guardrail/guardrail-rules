@@ -1,4 +1,0 @@
-<ruleset name="LinuxFoundation">
-  <rule from="^http://([^/:@]*)\.linuxfoundation\.org/" to="https://$1.linuxfoundation.org/"/>
-</ruleset>
-

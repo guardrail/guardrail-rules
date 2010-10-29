@@ -1,4 +1,0 @@
-<ruleset name="OpenSSL">
-  <rule from="^http://(www\.)?openssl\.org/" to="https://www.openssl.org/"/>
-</ruleset>
-

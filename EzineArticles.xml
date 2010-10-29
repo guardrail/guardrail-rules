@@ -1,4 +1,0 @@
-<ruleset name="EzineArticles">
-  <rule from="^http://(www\.)?ezinearticles\.com/" to="https://www.ezinearticles.com/"/>
-  <rule from="^http://(blog|shop|subscriptions)\.ezinearticles\.com/" to="https://$1.ezinearticles.com/"/>
-</ruleset>

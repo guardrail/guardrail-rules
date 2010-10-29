@@ -1,5 +1,0 @@
-<ruleset name="Plus.net">
-  <rule from="^http://(www\.)?plus\.net/" to="https://www.plus.net/"/>
-  <rule from="^http://(portal|webmail)\.plus\.net/" to="https://$1.plus.net/"/>
-</ruleset>
-

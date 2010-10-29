@@ -1,4 +1,0 @@
-<ruleset name="DaLinuxFrenchPage">
-  <rule from="^http://(www\.)?linuxfr\.org/" to="https://linuxfr.org/"/>
-</ruleset>
-

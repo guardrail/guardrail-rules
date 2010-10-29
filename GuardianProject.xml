@@ -1,4 +1,0 @@
-<ruleset name="Guardian Project">
-  <rule from="^http://(www\.)?guardianproject\.info/" to="https://guardianproject.info/"/>
-</ruleset>
-

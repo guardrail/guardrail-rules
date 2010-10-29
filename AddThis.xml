@@ -1,4 +1,0 @@
-<ruleset name="AddThis">
-  <rule from="^http://(www\.)?addthis\.com/bookmark\.php" to="https://www.addthis.com/bookmark.php"/>
-  <rule from="^http://api\.addthis\.com/" to="https://api.addthis.com/"/>
-</ruleset>

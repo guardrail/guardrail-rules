@@ -1,4 +1,0 @@
-<ruleset name="Irish Broadband">
-  <rule from="^http://irishbroadband\.ie/" to="https://www.irishbroadband.ie/"/>
-  <rule from="^http://([^/:@]*)\.irishbroadband\.ie/" to="https://$1.irishbroadband.ie/"/>
-</ruleset>

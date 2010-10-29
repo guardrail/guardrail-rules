@@ -1,5 +1,0 @@
-<ruleset name="Linode">
-  <rule from="^http://(www\.)?linode\.com/" to="https://www.linode.com/"/>
-  <rule from="^http://stats\.linode\.com/" to="https://stats.linode.com/"/>
-</ruleset>
-

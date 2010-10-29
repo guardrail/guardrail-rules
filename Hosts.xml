@@ -1,4 +1,0 @@
-<ruleset name="Hosts">
-  <rule from="^http://(www\.)?hosts\.co\.uk/" to="https://www.hosts.co.uk/"/>
-  <rule from="^http://(admin|webmail)\.hosts\.co\.uk/" to="https://$1.hosts.co.uk/"/>
-</ruleset>

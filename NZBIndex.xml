@@ -1,4 +1,0 @@
-<ruleset name="NZBIndex.nl">
-  <rule from="^http://(www\.)?nzbindex\.nl/" to="https://nzbindex.nl/"/>
-</ruleset>
-
